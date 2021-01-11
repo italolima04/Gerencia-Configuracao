@@ -27,4 +27,8 @@ void main() {
   var studentTwo =
       Student('Fabrício', 22, 'Universidade Federal do Ceará', 431422);
   studentTwo.printStudent();
+  print('Segunda Alteração no Código.');
+  var studentThree =
+      Student('Marcos', 20, 'Universidade Federal do Ceará', 471549);
+  studentThree.printStudent();
 }
