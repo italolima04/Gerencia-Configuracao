@@ -19,6 +19,8 @@ class Student extends Person {
   }
 }
 // Fabrício Nogueira 
+
+// Alteração Realizada por Ítalo Lima Dantas.
 void main() {
   var studentOne =
       Student('Ítalo', 19, 'Universidade Federal do Ceará', 470651);
