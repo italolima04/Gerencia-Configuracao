@@ -18,7 +18,7 @@ class Student extends Person {
     print('Code:  $code');
   }
 }
-// marcos
+// Marcos Gênesis, Fabrício Nogueira, Ítalo Lima Dantas.
 void main() {
   var studentOne =
       Student('Ítalo', 19, 'Universidade Federal do Ceará', 470651);
